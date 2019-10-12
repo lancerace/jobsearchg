@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+}
+
+.red {
+  color: red;
+}
+
+.bgWhite {
+  background: white;
+}
+
+.green {
+  background: green;
+}

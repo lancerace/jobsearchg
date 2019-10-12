@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": false, 
+    "css.lint.unknownProperties": "ignore", //ignore composes error unknown property for css composition  
+    "[javascript]": {
+        "editor.formatOnSave": false
+    },
+    "[javascriptreact]": {
+        "editor.formatOnSave": false
+    },    
+    "eslint.autoFixOnSave": true,
+    "prettier.disableLanguages": ["javascript", "javascriptreact"]
+
+}
