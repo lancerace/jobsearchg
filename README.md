@@ -1,6 +1,6 @@
-# Example Project for job search
+# Example Project for job search (Frontend)
 
-This is client side.
+
 
 #### Framework
  -webpack,react js
