@@ -8,3 +8,6 @@
 ### Reproducible Demo
 1. npm i and npm i --only=dev 
 2. npm run start 
+
+
+**direct browser to http://localhost8081/home**
